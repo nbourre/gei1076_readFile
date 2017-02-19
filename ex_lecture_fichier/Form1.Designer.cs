@@ -89,7 +89,7 @@
             this.Controls.Add(this.label1);
             this.Controls.Add(this.txtFilename);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Lecteur de fichier texte";
             this.ResumeLayout(false);
             this.PerformLayout();
 
